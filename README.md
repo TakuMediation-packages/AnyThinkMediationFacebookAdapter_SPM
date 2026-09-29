@@ -35,7 +35,7 @@ dependencies: [
 ## Included dependencies
 
 - [`AnyThinkiOS`](https://github.com/TakuMediation-packages/AnyThinkiOS_SPM) (>= 6.5.60)
-- [`FBAudienceNetwork`](https://github.com/facebook/facebook-ios-sdk) (pinned to the version certified for this adapter release)
+- [`FBAudienceNetwork`](https://github.com/facebook/FBAudienceNetwork) (pinned to the version certified for this adapter release)
 
 ## More information
 
